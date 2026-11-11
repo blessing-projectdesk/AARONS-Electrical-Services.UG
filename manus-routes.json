@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "AARONS Electrical Services Uganda" },
+    { "path": "/index.html", "title": "AARONS Electrical Services Uganda" },
+    { "path": "/about.html", "title": "About AARONS Electrical Services" },
+    { "path": "/electrical-services.html", "title": "Electrical Services in Kampala" },
+    { "path": "/solar-solutions.html", "title": "Solar Solutions in Kampala" },
+    { "path": "/security-systems.html", "title": "CCTV and Security Systems" },
+    { "path": "/projects.html", "title": "Projects and Capabilities" },
+    { "path": "/contact.html", "title": "Contact AARONS Electrical Services" }
+  ]
+}
